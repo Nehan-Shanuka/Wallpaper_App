@@ -4,9 +4,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## App UIs
 
-!["Home Page"](./assets/images/ui_image_1.jpg) !["Main Page"](./assets/images/ui_image_2.jpg)
-!["Results According to Search"](./assets/images/ui_image_3.jpg) !["Filter View"](./assets/images/ui_image_4.jpg)
-!["Results According to Filter"](./assets/images/ui_image_5.jpg)
+!["Home Page"](./assets/images/ui_image_1.jpg)
+!["Main Page"](./assets/images/ui_image_2.jpg)
+!["Categories View"](./assets/images/ui_image_3.jpg)
+!["Results According to Search"](./assets/images/ui_image_4.jpg)
+!["Filter View"](./assets/images/ui_image_5.jpg)
+!["Results According to Filter"](./assets/images/ui_image_6.jpg)
 
 ## Get started
 
